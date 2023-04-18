@@ -1,6 +1,8 @@
 package EX;
 
 public class InterpolationSearch {
+
+    // 보간 탐색
     int interpolationSearch(int arr[], int n, int x)
     {
 
